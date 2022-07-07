@@ -8,5 +8,5 @@ sites: # List of endpoints to track
   - name: Client Area
     url: https://area.boomhost.ml
 status-website: # Status website (optional)
-  cname: /boomstatus # Custom domain CNAME
+  baseUrl: /boomstatus # Custom domain CNAME
   name: BoomHost Status # Status website title
