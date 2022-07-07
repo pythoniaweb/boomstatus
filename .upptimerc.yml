@@ -4,12 +4,24 @@ sites: # List of endpoints to track
   - name: Main
     url: https://boomhost.ml
     maxResponseTime: 50000
-  - name: cPanel
-    url: https://cpanel.boomhost.ml
-    maxResponseTime: 50000
   - name: Client Area
     url: https://area.boomhost.ml
     maxResponseTime: 50000
+  - name: cPanel
+    url: https://cpanel.boomhost.ml
+    maxResponseTime: 50000
+  - name: BoomHost FTP
+    url: https://mftp.boomhost.ml
+    maxResponseTime: 50000
+    __dangerous__disable_verify_host: true
+  - name: Node 1
+    url: http://order.boomhost.ml
+    maxResponseTime: 50000
+    __dangerous__disable_verify_host: true
+  - name: Node 2
+    url: http://order.boomhost.ml
+    maxResponseTime: 50000
+    __dangerous__disable_verify_host: true
 status-website: # Status website (optional)
   baseUrl: /boomstatus # Custom domain CNAME
   name: BoomHost Status # Status website title
