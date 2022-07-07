@@ -14,7 +14,7 @@ sites: # List of endpoints to track
     maxResponseTime: 50000
     __dangerous__disable_verify_host: true
   - name: BoomHost FTP
-    url: http://ftp.boomhost.ml
+    url: http://mftp.boomhost.ml
     maxResponseTime: 50000
     __dangerous__disable_verify_host: true
   - name: Node 1
