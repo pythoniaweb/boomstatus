@@ -3,10 +3,13 @@ repo: boomstatus # GitHub repository name
 sites: # List of endpoints to track
   - name: Main
     url: https://boomhost.ml
+    maxResponseTime: 50000
   - name: cPanel
     url: https://cpanel.boomhost.ml
+    maxResponseTime: 50000
   - name: Client Area
     url: https://area.boomhost.ml
+    maxResponseTime: 50000
 status-website: # Status website (optional)
   baseUrl: /boomstatus # Custom domain CNAME
   name: BoomHost Status # Status website title
