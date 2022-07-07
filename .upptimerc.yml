@@ -9,12 +9,12 @@ sites: # List of endpoints to track
     url: http://area.boomhost.ml/login.php
     maxResponseTime: 50000
     __dangerous__disable_verify_host: true
-  - name: cPanel
-    url: https://cpanel.boomhost.ml
-    maxResponseTime: 50000
-    __dangerous__disable_verify_host: true
   - name: BoomHost FTP
     url: http://mftp.boomhost.ml
+    maxResponseTime: 50000
+    __dangerous__disable_verify_host: true
+  - name: cPanel
+    url: https://cpanel.boomhost.ml
     maxResponseTime: 50000
     __dangerous__disable_verify_host: true
   - name: Node 1
