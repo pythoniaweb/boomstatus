@@ -2,11 +2,11 @@ owner: pythoniaweb # GitHub username
 repo: boomstatus # GitHub repository name
 sites: # List of endpoints to track
   - name: Main
-    url: http://boomhost.ml
+    url: http://boomhost.ml/index.php
     maxResponseTime: 50000
     __dangerous__disable_verify_host: true
   - name: Client Area
-    url: http://area.boomhost.ml
+    url: http://area.boomhost.ml/login.php
     maxResponseTime: 50000
     __dangerous__disable_verify_host: true
   - name: cPanel
