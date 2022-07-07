@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/boomhost.ml",
     "slug": "main",
     "status": "down",
-    "uptime": "8.41%",
-    "uptimeDay": "8.41%",
-    "uptimeWeek": "8.41%",
-    "uptimeMonth": "8.41%",
-    "uptimeYear": "8.41%",
+    "uptime": "0.27%",
+    "uptimeDay": "0.27%",
+    "uptimeWeek": "0.27%",
+    "uptimeMonth": "0.27%",
+    "uptimeYear": "0.27%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-07": 0
+      "2022-07-07": 4
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 579,
-    "timeDay": 579,
-    "timeWeek": 579,
-    "timeMonth": 579,
-    "timeYear": 579,
+    "time": 733,
+    "timeDay": 733,
+    "timeWeek": 733,
+    "timeMonth": 733,
+    "timeYear": 733,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/area.boomhost.ml",
     "slug": "client-area",
     "status": "down",
-    "uptime": "13.52%",
-    "uptimeDay": "13.52%",
-    "uptimeWeek": "13.52%",
-    "uptimeMonth": "13.52%",
-    "uptimeYear": "13.52%",
+    "uptime": "0.60%",
+    "uptimeDay": "0.60%",
+    "uptimeWeek": "0.60%",
+    "uptimeMonth": "0.60%",
+    "uptimeYear": "0.60%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-07": 0
+      "2022-07-07": 4
     }
   }
 ]
