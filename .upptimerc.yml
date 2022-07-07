@@ -1,0 +1,12 @@
+owner: pythoniaweb # GitHub username
+repo: boomstatus # GitHub repository name
+sites: # List of endpoints to track
+  - name: Main
+    url: https://boomhost.ml
+  - name: cPanel
+    url: https://cpanel.boomhost.ml
+  - name: Client Area
+    url: https://area.boomhost.ml
+status-website: # Status website (optional)
+  cname: /boomstatus # Custom domain CNAME
+  name: BoomHost Status # Status website title
